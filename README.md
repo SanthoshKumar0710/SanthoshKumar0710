@@ -138,12 +138,19 @@ MLOps & Cloud       ███████░░░░░░░░░░░░░
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanthoshKumar0710&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshKumar0710&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SanthoshKumar0710&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/SanthoshKumar0710">
+<img src="https://img.shields.io/github/followers/SanthoshKumar0710?style=for-the-badge&logo=github&label=Followers" />
+</a>
+
+<a href="https://github.com/SanthoshKumar0710?tab=repositories">
+<img src="https://img.shields.io/github/stars/SanthoshKumar0710?style=for-the-badge&logo=github&label=Stars" />
+</a>
+
+<a href="https://github.com/SanthoshKumar0710">
+<img src="https://img.shields.io/github/last-commit/SanthoshKumar0710/SanthoshKumar0710?style=for-the-badge&logo=github&label=Profile%20Updated" />
+</a>
+
 </p>
 
 ---
