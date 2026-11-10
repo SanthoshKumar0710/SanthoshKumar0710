@@ -1,181 +1,233 @@
-# 👋 Hi, I'm Santhosh Kumar
+# 👋 Hey, I'm Santhosh Kumar
 
-### `AI/ML Engineer` · `Python Developer` · `Problem Solver`
+### AI/ML Engineer | Python Developer | Building Intelligent Solutions
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Turning+Data+into+Intelligence;Engineering+Real-World+AI+Solutions;Exploring+Machine+Learning+%26+Deep+Learning;Building+the+Future+with+AI" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/SanthoshKumar0710">
-    <img src="https://img.shields.io/badge/GitHub-SanthoshKumar0710-111111?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/santhosh-kumar-1037a132b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems;Turning+Ideas+into+Real+Solutions;Learning+%7C+Building+%7C+Improving" />
-</p>
+---
+
+## 🧑‍💻 About Me
+
+I'm a Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning**, passionate about transforming ideas into practical intelligent applications.
+
+I enjoy exploring how data, algorithms, and modern AI technologies can work together to solve meaningful real-world challenges.
+
+- 🤖 Interested in Machine Learning, Deep Learning and Generative AI.
+- 👁️ Exploring Computer Vision and intelligent perception systems.
+- 🧠 Learning LLMs, RAG, embeddings and AI-powered applications.
+- ⚙️ Building backend services and integrating ML models into applications.
+- 🚀 Focused on developing practical, scalable and impactful AI solutions.
+
+> **My philosophy: Don't just train models. Engineer intelligent systems that make a difference.**
 
 ---
 
-## 🧠 About Me
+## ⚡ My Technical Universe
 
-I'm an aspiring **AI/ML Engineer** passionate about building practical intelligent systems.
-
-My focus is on combining **strong programming fundamentals, machine learning, and modern AI technologies** to solve real-world problems.
-
-```text
-Problem
-   ↓
-Data
-   ↓
-Intelligence
-   ↓
-Engineering
-   ↓
-Solution
-```
-
-> **I don't just want to build models — I want to build systems that solve problems.**
-
----
-
-## ⚡ Tech Stack
-
-### 💻 Programming & Development
-
+### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,sql" />
 </p>
 
-`Python` · `Java` · `JavaScript` · `React` · `SQL` · `Git` · `GitHub` · `Docker`
-
-### 🤖 AI / Machine Learning
-
+### 🤖 AI, Machine Learning & Data Science
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
-`NumPy` · `Pandas` · `Scikit-learn` · `TensorFlow` · `PyTorch` · `OpenCV`
+`NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `XGBoost` · `Deep Learning`
 
-### ✨ Generative AI
+### ✨ Generative AI & LLM Engineering
 
-`LLMs` · `Prompt Engineering` · `Embeddings` · `RAG` · `Vector Databases`
+`LLMs` · `Prompt Engineering` · `Embeddings` · `Retrieval-Augmented Generation (RAG)` · `Vector Databases` · `LangChain` · `LangGraph`
 
-### ⚙️ Backend
+### 🌐 Backend & Application Development
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,html,css" />
+</p>
 
-`FastAPI` · `Flask` · `REST APIs`
+`FastAPI` · `Flask` · `REST APIs` · `React` · `TypeScript`
+
+### 🗄️ Databases & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,git,github,linux,vscode" />
+</p>
+
+`PostgreSQL` · `MongoDB` · `Redis` · `Docker` · `Git` · `GitHub`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔮 AI Infrastructure Failure Prediction
+A selection of projects focused on applying AI and software engineering to real-world problems.
 
-> **Predict failures before they happen.**
+### 🔮 01. AI Infrastructure Failure Prediction Platform
 
-A machine learning system designed to analyze infrastructure metrics and predict potential failures.
+**Predictive intelligence for infrastructure reliability.**
 
-**Stack:** `Python` `Machine Learning` `React` `FastAPI`
+A platform designed to analyse infrastructure metrics and identify potential failure risks using machine learning.
 
+**Technology:** Python · Machine Learning · FastAPI · React · PostgreSQL · Redis · Docker
+
+**Core workflow:**
 ```text
-Infrastructure Metrics
+Infrastructure Data
         ↓
 Data Processing
         ↓
 Feature Engineering
         ↓
-ML Prediction
+Machine Learning
         ↓
-Failure Probability
+Failure Risk Prediction
         ↓
-Alerts & Dashboard
+Dashboard & Insights
 ```
+
+🔗 [Explore Repository](https://github.com/SanthoshKumar0710/ai-infra-failure-prediction)
 
 ---
 
-### 🎯 Lead Scoring Prediction
+### 🚗 02. NAYAN-X — Intelligent Collision Avoidance
 
-> **Turn CRM data into actionable customer insights.**
+**Predictive, Memory-Augmented Collision Avoidance for Unstructured Indian Roads.**
 
-A machine learning system that predicts the probability of a lead converting into a paying customer.
+An AI-driven project concept focused on improving road safety through environmental perception, motion prediction, risk assessment and adaptive collision avoidance.
 
-**Stack:** `Python` `Pandas` `Scikit-learn` `Data Visualization`
+**Technology:** Computer Vision · Sensor Fusion · Predictive Analytics · AI
 
+**Conceptual architecture:**
 ```text
-CRM Data
-   ↓
+SEE → PREDICT → REMEMBER
+              ↓
+LEARN ← AVOID ← ADAPT
+```
+
+🔗 [Explore Repository](https://github.com/SanthoshKumar0710/NAYAN-X)
+
+---
+
+### 🎯 03. Lead Scoring Prediction
+
+**Turning customer data into smarter business decisions.**
+
+A machine learning project designed to estimate lead conversion potential and support data-driven lead prioritisation.
+
+**Technology:** Python · Pandas · Scikit-learn · Machine Learning · Data Analytics
+
+**Core workflow:**
+```text
+CRM Dataset
+     ↓
 Data Cleaning
-   ↓
+     ↓
 Feature Engineering
-   ↓
+     ↓
 Classification Model
-   ↓
-Conversion Probability
-   ↓
-Lead Prioritization
+     ↓
+Conversion Prediction
+     ↓
+Lead Prioritisation
 ```
 
-> 🚧 **More AI/ML projects are currently being built.**
+---
+
+### 🧠 04. Learning Rate Analysis in Deep Neural Networks
+
+**Understanding how learning rates influence neural network training.**
+
+A deep learning mini-project exploring how different learning-rate configurations affect model optimisation and training behaviour.
+
+**Technology:** Python · Deep Learning · Neural Networks · Model Evaluation
+
+🔗 [Explore Repository](https://github.com/Santhoshkumar/DL-MINI-PROJECT)
 
 ---
 
-## 📚 Currently Exploring
+## 🔬 Currently Exploring
 
-```text
-Python              ████████████████████
-DSA                 ██████████████████░░
-Machine Learning    ███████████████░░░░░
-Deep Learning       ████████████░░░░░░░░
-Generative AI       ██████████░░░░░░░░░░
-MLOps & Cloud       ███████░░░░░░░░░░░░░
+| Domain | Learning Focus |
+|---|---|
+| Machine Learning | Algorithms, feature engineering, model evaluation |
+| Deep Learning | Neural networks, CNNs, model optimisation |
+| Computer Vision | Image classification, object detection, segmentation |
+| Generative AI | LLMs, RAG, embeddings and vector search |
+| Backend Engineering | FastAPI, REST APIs and databases |
+| MLOps | Experiment tracking, model deployment and monitoring |
+| Problem Solving | Data Structures and Algorithms |
+
+**Learning mindset:** Understand the fundamentals → Build projects → Evaluate results → Improve continuously.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SanthoshKumar0710&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshKumar0710&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://streak-stats.demolab.com?user=SanthoshKumar0710&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SanthoshKumar0710&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🎯 Beyond the Code
+
+```python
+developer = {
+    "name": "Santhosh Kumar",
+    "role": "AI/ML Engineer",
+    "interests": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Computer Vision",
+        "Generative AI",
+        "Problem Solving"
+    ],
+    "mindset": "Learn. Build. Experiment. Improve.",
+    "goal": "Engineer intelligent solutions for real-world challenges."
+}
+
+print("Building the future, one solution at a time!")
 ```
 
-**Current focus:**
-`Advanced Python` · `DSA` · `Machine Learning` · `Deep Learning` · `Generative AI` · `RAG` · `MLOps`
-
 ---
 
-## 📊 GitHub
+## 🤝 Let's Connect & Collaborate
+
+I'm interested in connecting with developers, AI enthusiasts, researchers and professionals who are passionate about building innovative technology.
 
 <p align="center">
-
-<a href="https://github.com/SanthoshKumar0710">
-<img src="https://img.shields.io/github/followers/SanthoshKumar0710?style=for-the-badge&logo=github&label=Followers" />
-</a>
-
-<a href="https://github.com/SanthoshKumar0710?tab=repositories">
-<img src="https://img.shields.io/github/stars/SanthoshKumar0710?style=for-the-badge&logo=github&label=Stars" />
-</a>
-
-<a href="https://github.com/SanthoshKumar0710">
-<img src="https://img.shields.io/github/last-commit/SanthoshKumar0710/SanthoshKumar0710?style=for-the-badge&logo=github&label=Profile%20Updated" />
-</a>
-
+  <a href="https://github.com/SanthoshKumar0710">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/santhosh-kumar-1037a132b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
-
----
-
-## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/SanthoshKumar0710">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/santhosh-kumar-1037a132b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00D9FF&height=120&section=footer" />
 </p>
 
----
+<h3 align="center">⚡ THINK · BUILD · INNOVATE · REPEAT ⚡</h3>
 
 <p align="center">
-
-### ⚡ Build · Learn · Solve · Deploy
-
-**Turning curiosity into code and ideas into intelligent solutions.**
-
+  <i>Turning curiosity into code and ideas into intelligent solutions.</i>
 </p>
-
