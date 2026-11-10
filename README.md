@@ -1,233 +1,321 @@
-# 👋 Hey, I'm Santhosh Kumar
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  SANThOSH KUMAR | PROFILE                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### AI/ML Engineer | Python Developer | Building Intelligent Solutions
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Turning+Data+into+Intelligence;Engineering+Real-World+AI+Solutions;Exploring+Machine+Learning+%26+Deep+Learning;Building+the+Future+with+AI" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,35:101B3D,70:174A70,100:00D9FF&text=SANTHOSH%20KUMAR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20WHAT'S%20NEXT&descSize=15&descAlignY=57&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/SanthoshKumar0710">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/santhosh-kumar-1037a132b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
+<br/>
 
----
+### `AI/ML ENGINEER` &nbsp;·&nbsp; 
 
-## 🧑‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=I+turn+complex+problems+into+intelligent+solutions.;From+Machine+Learning+to+Generative+AI.;Engineering+systems%2C+not+just+algorithms.;Imagine.+Engineer.+Innovate." width="100%"/>
 
-I'm a Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning**, passionate about transforming ideas into practical intelligent applications.
+<br/>
 
-I enjoy exploring how data, algorithms, and modern AI technologies can work together to solve meaningful real-world challenges.
+<a href="https://github.com/SanthoshKumar0710">
+<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+<a href="https://www.linkedin.com/in/santhosh-kumar-1037a132b/">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- 🤖 Interested in Machine Learning, Deep Learning and Generative AI.
-- 👁️ Exploring Computer Vision and intelligent perception systems.
-- 🧠 Learning LLMs, RAG, embeddings and AI-powered applications.
-- ⚙️ Building backend services and integrating ML models into applications.
-- 🚀 Focused on developing practical, scalable and impactful AI solutions.
+<br/><br/>
 
-> **My philosophy: Don't just train models. Engineer intelligent systems that make a difference.**
+<img src="https://komarev.com/ghpvc/?username=SanthoshKumar0710&style=for-the-badge&color=00D9FF&label=PROFILE+VISITORS"/>
+
+</div>
 
 ---
 
-## ⚡ My Technical Universe
+## ◈ 01 — THE ENGINEER BEHIND THE CODE
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,sql" />
-</p>
+```yaml
+identity:
+  name: Santhosh Kumar
+  role: AI/ML Engineer
+  education: B.E. Computer Science & Engineering (AI & ML)
+  location: Chennai, India
 
-### 🤖 AI, Machine Learning & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
+mission:
+  - Engineer intelligent systems
+  - Transform data into actionable insights
+  - Build practical AI-powered applications
+  - Explore the possibilities of emerging technologies
 
-`NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `XGBoost` · `Deep Learning`
-
-### ✨ Generative AI & LLM Engineering
-
-`LLMs` · `Prompt Engineering` · `Embeddings` · `Retrieval-Augmented Generation (RAG)` · `Vector Databases` · `LangChain` · `LangGraph`
-
-### 🌐 Backend & Application Development
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,html,css" />
-</p>
-
-`FastAPI` · `Flask` · `REST APIs` · `React` · `TypeScript`
-
-### 🗄️ Databases & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,git,github,linux,vscode" />
-</p>
-
-`PostgreSQL` · `MongoDB` · `Redis` · `Docker` · `Git` · `GitHub`
-
----
-
-## 🚀 Featured Projects
-
-A selection of projects focused on applying AI and software engineering to real-world problems.
-
-### 🔮 01. AI Infrastructure Failure Prediction Platform
-
-**Predictive intelligence for infrastructure reliability.**
-
-A platform designed to analyse infrastructure metrics and identify potential failure risks using machine learning.
-
-**Technology:** Python · Machine Learning · FastAPI · React · PostgreSQL · Redis · Docker
-
-**Core workflow:**
-```text
-Infrastructure Data
-        ↓
-Data Processing
-        ↓
-Feature Engineering
-        ↓
-Machine Learning
-        ↓
-Failure Risk Prediction
-        ↓
-Dashboard & Insights
+interests:
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+  - Generative AI & LLMs
+  - Backend Engineering
 ```
 
-🔗 [Explore Repository](https://github.com/SanthoshKumar0710/ai-infra-failure-prediction)
+I am passionate about the intersection of **Artificial Intelligence, software engineering and real-world innovation**.
+
+I enjoy understanding problems, experimenting with algorithms, engineering applications and turning ideas into working solutions.
+
+> **I don't just want to make machines learn. I want to engineer systems that make intelligence useful.**
 
 ---
 
-### 🚗 02. NAYAN-X — Intelligent Collision Avoidance
+## ◈ 02 — MY ENGINEERING ECOSYSTEM
+
+<div align="center">
+
+### PROGRAMMING LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,sql&theme=dark"/>
+
+<br/><br/>
+
+### ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
+
+<br/>
+
+`NumPy` &nbsp; `Pandas` &nbsp; `Scikit-learn` &nbsp; `XGBoost` &nbsp; `Matplotlib`
+
+<br/><br/>
+
+### GENERATIVE AI & INTELLIGENT SYSTEMS
+
+`LLMs` &nbsp; `RAG` &nbsp; `Embeddings` &nbsp; `Prompt Engineering`
+
+`LangChain` &nbsp; `LangGraph` &nbsp; `Vector Databases`
+
+<br/><br/>
+
+### BACKEND & APPLICATION ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,html,css&theme=dark"/>
+
+<br/>
+
+`REST APIs` &nbsp; `React` &nbsp; `FastAPI` &nbsp; `Flask`
+
+<br/><br/>
+
+### DATABASES & DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,git,github,linux,vscode&theme=dark"/>
+
+</div>
+
+---
+
+## ◈ 03 — PROJECTS THAT REPRESENT MY THINKING
+
+<div align="center">
+
+### FROM PROBLEM STATEMENTS TO INTELLIGENT SOLUTIONS
+
+</div>
+
+### 🔮 PROJECT 01 — AI INFRASTRUCTURE FAILURE PREDICTION
+
+**Building predictive intelligence for infrastructure reliability.**
+
+A machine learning platform designed to analyse infrastructure metrics and identify potential failure risks.
+
+| Engineering Area | Technology |
+|---|---|
+| Programming | Python |
+| Backend | FastAPI |
+| Frontend | React |
+| Database | PostgreSQL |
+| Task Processing | Redis |
+| Deployment | Docker |
+
+**SYSTEM PIPELINE**
+
+```text
+       INFRASTRUCTURE METRICS
+                 │
+                 ▼
+          DATA PROCESSING
+                 │
+                 ▼
+         FEATURE ENGINEERING
+                 │
+                 ▼
+          ML PREDICTION
+                 │
+                 ▼
+         FAILURE RISK ANALYSIS
+                 │
+                 ▼
+          INTELLIGENCE DASHBOARD
+```
+
+<div align="center">
+
+<a href="https://github.com/SanthoshKumar0710/ai-infra-failure-prediction">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+### 🚗 PROJECT 02 — NAYAN-X
 
 **Predictive, Memory-Augmented Collision Avoidance for Unstructured Indian Roads.**
 
-An AI-driven project concept focused on improving road safety through environmental perception, motion prediction, risk assessment and adaptive collision avoidance.
+An intelligent collision-avoidance project concept designed around environmental perception, motion prediction, memory, dynamic risk assessment and adaptive planning.
 
-**Technology:** Computer Vision · Sensor Fusion · Predictive Analytics · AI
+**THE NAYAN-X INTELLIGENCE LOOP**
 
-**Conceptual architecture:**
+<div align="center">
+
 ```text
-SEE → PREDICT → REMEMBER
-              ↓
-LEARN ← AVOID ← ADAPT
+       ┌───────────────────┐
+       │   MULTI-SENSOR    │
+       │    PERCEPTION     │
+       └─────────┬─────────┘
+                 ▼
+       ┌───────────────────┐
+       │  MOTION & INTENT  │
+       │    PREDICTION     │
+       └─────────┬─────────┘
+                 ▼
+       ┌───────────────────┐
+       │   EVENT MEMORY    │
+       │  & RISK ANALYSIS  │
+       └─────────┬─────────┘
+                 ▼
+       ┌───────────────────┐
+       │  ADAPTIVE PLANNER │
+       │  & COLLISION      │
+       │    AVOIDANCE      │
+       └─────────┬─────────┘
+                 │
+                 └──────► CONTINUOUS LEARNING
 ```
 
-🔗 [Explore Repository](https://github.com/SanthoshKumar0710/NAYAN-X)
+</div>
+
+**Core concepts:** Computer Vision · Sensor Fusion · Kalman Filtering · Predictive Risk Analysis · Intelligent Planning
+
+<div align="center">
+
+<a href="https://github.com/SanthoshKumar0710/NAYAN-X">
+<img src="https://img.shields.io/badge/EXPLORE_NAYAN--X-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### 🎯 03. Lead Scoring Prediction
+### 🎯 PROJECT 03 — LEAD SCORING PREDICTION
 
-**Turning customer data into smarter business decisions.**
+**Turning customer data into business intelligence.**
 
-A machine learning project designed to estimate lead conversion potential and support data-driven lead prioritisation.
+A machine learning project focused on predicting lead conversion potential and supporting data-driven customer prioritisation.
 
-**Technology:** Python · Pandas · Scikit-learn · Machine Learning · Data Analytics
-
-**Core workflow:**
-```text
-CRM Dataset
-     ↓
-Data Cleaning
-     ↓
-Feature Engineering
-     ↓
-Classification Model
-     ↓
-Conversion Prediction
-     ↓
-Lead Prioritisation
-```
+`Python` · `Pandas` · `Scikit-learn` · `Classification` · `Data Analytics`
 
 ---
 
-### 🧠 04. Learning Rate Analysis in Deep Neural Networks
+### 🧠 PROJECT 04 — DEEP LEARNING LEARNING RATE ANALYSIS
 
-**Understanding how learning rates influence neural network training.**
+**Understanding the science behind neural network optimisation.**
 
-A deep learning mini-project exploring how different learning-rate configurations affect model optimisation and training behaviour.
+An experimental deep learning project analysing how learning-rate configurations influence neural network training behaviour.
 
-**Technology:** Python · Deep Learning · Neural Networks · Model Evaluation
+`Python` · `Neural Networks` · `Deep Learning` · `Model Evaluation`
 
-🔗 [Explore Repository](https://github.com/Santhoshkumar/DL-MINI-PROJECT)
-
----
-
-## 🔬 Currently Exploring
-
-| Domain | Learning Focus |
-|---|---|
-| Machine Learning | Algorithms, feature engineering, model evaluation |
-| Deep Learning | Neural networks, CNNs, model optimisation |
-| Computer Vision | Image classification, object detection, segmentation |
-| Generative AI | LLMs, RAG, embeddings and vector search |
-| Backend Engineering | FastAPI, REST APIs and databases |
-| MLOps | Experiment tracking, model deployment and monitoring |
-| Problem Solving | Data Structures and Algorithms |
-
-**Learning mindset:** Understand the fundamentals → Build projects → Evaluate results → Improve continuously.
+<a href="https://github.com/Santhoshkumar/DL-MINI-PROJECT">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-00D9FF?style=flat-square&logo=github&logoColor=black"/>
+</a>
 
 ---
 
-## 📊 GitHub Analytics
+## ◈ 04 — THE NEXT FRONTIER
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SanthoshKumar0710&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshKumar0710&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=SanthoshKumar0710&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
+| DOMAIN | CURRENT EXPLORATION |
+|:---|:---|
+| 🤖 Machine Learning | Model optimisation & evaluation |
+| 🧠 Deep Learning | CNNs & neural architectures |
+| 👁️ Computer Vision | Detection & segmentation |
+| ✨ Generative AI | LLMs, RAG & AI agents |
+| ⚙️ Backend Engineering | APIs & scalable services |
+| 🚀 MLOps | Deployment & model monitoring |
+| 💡 Problem Solving | Data Structures & Algorithms |
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SanthoshKumar0710&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
+</div>
+
+**My development philosophy:**
+
+`LEARN` → `EXPERIMENT` → `ENGINEER` → `EVALUATE` → `EVOLVE`
 
 ---
 
-## 🎯 Beyond the Code
+## ◈ 05 — GITHUB INTELLIGENCE
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanthoshKumar0710&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshKumar0710&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=SanthoshKumar0710&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SanthoshKumar0710&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## ◈ 06 — BEYOND THE TERMINAL
 
 ```python
-developer = {
-    "name": "Santhosh Kumar",
-    "role": "AI/ML Engineer",
-    "interests": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Computer Vision",
-        "Generative AI",
-        "Problem Solving"
-    ],
-    "mindset": "Learn. Build. Experiment. Improve.",
-    "goal": "Engineer intelligent solutions for real-world challenges."
-}
+class Engineer:
+    def __init__(self):
+        self.name = "Santhosh Kumar"
+        self.role = "AI/ML Engineer"
+        self.mindset = "Think beyond the obvious"
+        self.approach = "Build, test, learn, improve"
 
-print("Building the future, one solution at a time!")
+    def mission(self):
+        return "Turn ideas into intelligent solutions."
+
+me = Engineer()
+print(me.mission())
 ```
+
+I believe innovation starts with curiosity, grows through experimentation and becomes meaningful through engineering.
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## ◈ 07 — LET'S BUILD SOMETHING INTELLIGENT
 
-I'm interested in connecting with developers, AI enthusiasts, researchers and professionals who are passionate about building innovative technology.
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/SanthoshKumar0710">
-    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/santhosh-kumar-1037a132b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+**Open to learning, collaboration, internships and opportunities in AI/ML engineering.**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00D9FF&height=120&section=footer" />
-</p>
+<br/>
 
-<h3 align="center">⚡ THINK · BUILD · INNOVATE · REPEAT ⚡</h3>
+<a href="https://github.com/SanthoshKumar0710">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="center">
-  <i>Turning curiosity into code and ideas into intelligent solutions.</i>
-</p>
+<a href="https://www.linkedin.com/in/santhosh-kumar-1037a132b/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### `THINK DIFFERENTLY. ENGINEER INTELLIGENTLY. BUILD IMPACTFULLY.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:174A70,100:050816&height=130&section=footer"/>
+
+</div>
